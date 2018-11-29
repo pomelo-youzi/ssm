@@ -1,0 +1,6 @@
+com\itheima\service\impl\UserServiceImp.class
+com\itheima\service\OrdersService.class
+com\itheima\service\impl\ProductServiceImp.class
+com\itheima\service\impl\OrdersServiceImp.class
+com\itheima\service\ProductService.class
+com\itheima\service\UserService.class
